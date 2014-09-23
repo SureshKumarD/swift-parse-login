@@ -1,0 +1,2 @@
+PODS_SWIFTPARSELOGIN_PARSEFACEBOOKUTILS_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/ParseFacebookUtils"
+PODS_SWIFTPARSELOGIN_PARSEFACEBOOKUTILS_OTHER_LDFLAGS = -lsqlite3 -lz -framework AudioToolbox -framework CFNetwork -framework CoreGraphics -framework CoreLocation -framework MobileCoreServices -framework ParseFacebookUtils -framework QuartzCore -framework Security -framework StoreKit -framework SystemConfiguration -weak_framework Accounts -weak_framework Social

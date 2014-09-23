@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0702D408E3F547A8BB75775D"
+               BlueprintIdentifier = "AE9E2560C1F745B3BFA04BAB"
                BuildableName = "libPods-SwiftParseLogin-Parse.a"
                BlueprintName = "Pods-SwiftParseLogin-Parse"
                ReferencedContainer = "container:Pods.xcodeproj">

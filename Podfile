@@ -2,7 +2,8 @@
 # platform :ios, "8.0"
 
 target "SwiftParseLogin" do
-pod 'Parse'
+
+pod 'ParseFacebookUtils', '~> 1.2'
 end
 
 target "SwiftParseLoginTests" do

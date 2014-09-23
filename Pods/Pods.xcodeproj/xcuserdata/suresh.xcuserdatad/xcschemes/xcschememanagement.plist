@@ -9,7 +9,17 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-SwiftParseLogin-Facebook-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-SwiftParseLogin-Parse.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SwiftParseLogin-ParseFacebookUtils.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -21,6 +31,32 @@
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>35D0CFCED00C47EFB0836ABE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>455E1AFCDEBB47AA9F187C83</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BD484C8B11640328932B7E6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AE9E2560C1F745B3BFA04BAB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D88A5109793F41AC9F64F479</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>

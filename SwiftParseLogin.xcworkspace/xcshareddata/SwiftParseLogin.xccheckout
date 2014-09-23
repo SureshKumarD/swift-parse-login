@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A41450A8-B878-4EBE-ABBC-CAB51D84BD30</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftParseLogin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0D5F340C50066BBEDD94DAD791A7CCCE0D6FA43C</key>
+		<string>github.com:SureshKumarD/iOSobjectiveCassignments.git</string>
+		<key>7A37311E362CC106D93DE38B846C8C909C8FB6EB</key>
+		<string>https://github.com/SureshKumarD/SwiftParseLogin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftParseLogin.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0D5F340C50066BBEDD94DAD791A7CCCE0D6FA43C</key>
+		<string>../..</string>
+		<key>7A37311E362CC106D93DE38B846C8C909C8FB6EB</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SureshKumarD/SwiftParseLogin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A37311E362CC106D93DE38B846C8C909C8FB6EB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D5F340C50066BBEDD94DAD791A7CCCE0D6FA43C</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A37311E362CC106D93DE38B846C8C909C8FB6EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftParseLogin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
